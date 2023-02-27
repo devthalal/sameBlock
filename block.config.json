@@ -1,0 +1,14 @@
+{
+  "name": "sameBlock",
+  "type": "package",
+  "blockId": "IcRPZ9D3K9PXo0h_rt-QD",
+  "source": {
+    "https": "https://github.com/devthalal/sameBlock",
+    "ssh": "git@github.com:devthalal/sameBlock.git"
+  },
+  "supportedAppblockVersions": [
+    [
+      "1.0.0"
+    ]
+  ]
+}
